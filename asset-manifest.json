@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kittymonsters/static/css/main.8ad1fbc6.chunk.css",
+    "main.js": "/kittymonsters/static/js/main.1f663fc3.chunk.js",
+    "main.js.map": "/kittymonsters/static/js/main.1f663fc3.chunk.js.map",
+    "runtime-main.js": "/kittymonsters/static/js/runtime-main.fed12c5a.js",
+    "runtime-main.js.map": "/kittymonsters/static/js/runtime-main.fed12c5a.js.map",
+    "static/js/2.7bede9e7.chunk.js": "/kittymonsters/static/js/2.7bede9e7.chunk.js",
+    "static/js/2.7bede9e7.chunk.js.map": "/kittymonsters/static/js/2.7bede9e7.chunk.js.map",
+    "index.html": "/kittymonsters/index.html",
+    "precache-manifest.0b852510e8e07e1b850000525c66208e.js": "/kittymonsters/precache-manifest.0b852510e8e07e1b850000525c66208e.js",
+    "service-worker.js": "/kittymonsters/service-worker.js",
+    "static/css/main.8ad1fbc6.chunk.css.map": "/kittymonsters/static/css/main.8ad1fbc6.chunk.css.map",
+    "static/js/2.7bede9e7.chunk.js.LICENSE.txt": "/kittymonsters/static/js/2.7bede9e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fed12c5a.js",
+    "static/js/2.7bede9e7.chunk.js",
+    "static/css/main.8ad1fbc6.chunk.css",
+    "static/js/main.1f663fc3.chunk.js"
+  ]
+}
